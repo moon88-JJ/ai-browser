@@ -199,6 +199,20 @@ export const TOOLS: AITool[] = [
     icon: "Briefcase",
     tags: ["Automation", "Agent"],
   },
+  {
+    "id": "agent-qa",
+    "name": "agent-qa",
+    "url": "https://vostride.com",
+    "category": "tier4",
+    "description": "自然语言执行网页、Android与iOS测试，持久记忆复用经验，经验证的自我改进，并保留步骤与截图。",
+    "oneLiner": "网页与移动端QA，持久记忆与自我改进",
+    "icon": "Bot",
+    "tags": [
+      "QA",
+      "Memory",
+      "MCP"
+    ]
+  }
 ];
 
 export const COMPARISON_DATA = [
